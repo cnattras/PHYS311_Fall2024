@@ -1,6 +1,6 @@
-# PHYS311_Fall2021
+# PHYS311_Fall2024
 
-This repository contains Jupyter notebooks for use during the Studio sessions of PHYS 311 - Classical Mechanics I at the University of Tennessee, Knoxville.
+This repository contains Jupyter notebooks for use during the Studio sessions of PHYS 311 - Classical Mechanics I at the University of Tennessee, Knoxville.  These are largely copied from Dr. Larry Lee, who deserves all of the credit for the excellent work!
 
 These are meant to be performed individually but with much discussion within the classroom. Discuss solutions and clarifications with your classmates. If you finish early, play around with the techniques introduced in the notebooks. The more you explore yourself, the stronger your skills will be.
 
